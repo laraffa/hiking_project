@@ -1,0 +1,16 @@
+.item img {
+  width: 80%;
+  margin-left: 10%;
+  height: 300px;
+}
+.carousel-inner {
+  width: 90%;
+  height: 10%;
+  margin-left: 5%;
+  margin-top:5%;
+  text-align: center;
+}
+.item h3 {
+  font-size: 72px;
+  font-family: serif;
+}
